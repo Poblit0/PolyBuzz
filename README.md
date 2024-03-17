@@ -1,4 +1,5 @@
 #Projet Arduino – 2022/2023
+
 De CAZAUBON Lorenz et MAUVOISIN Paul - Groupe 1
 
 ## Idée principale
@@ -22,7 +23,8 @@ L'objectif de ce test est d'éteindre le plus de lumières qui s’allument en a
 - 1 boîte (à terme en bois)
 - 10 buzzers
 - 1 module bluetooth
-- A compléter..
+
+A compléter..
 
 ## En image
 ![20230203_121936](https://user-images.githubusercontent.com/96289463/223478618-df27eb53-6f91-4594-a28d-f381ee7371af.jpg)
